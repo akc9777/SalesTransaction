@@ -1,0 +1,12 @@
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.AssemblyInfoInputs.cache
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.AssemblyInfo.cs
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.csproj.CoreCompileInputs.cache
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.deps.json
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.csprojAssemblyReference.cache
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.csproj.CopyComplete
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
