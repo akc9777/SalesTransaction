@@ -8,15 +8,16 @@ namespace SalesTransaction.Application.DataAccess
 {
     public class DataAccessHelper
     {
-        private SqlConnection _dbConnection;
-        private string _dbConnectionString = "Data Source=10.6.0.246; Initial Catalog=Abhishek;User id=intern;Password=intern001";
+        private SqlConnection dbConnection;
+        private string dbConnectionString = "Data Source=10.6.0.246; Initial Catalog=Abhishek;User id=intern;Password=intern001";
+        
         
         public SqlConnection GetConnection() 
         {
             try
             {
                 SetConnection();
-                return _dbConnection;
+                return dbConnection;
             }
             catch(Exception e)
             {
@@ -26,15 +27,15 @@ namespace SalesTransaction.Application.DataAccess
 
         public void SetConnection()
         {
-            _dbConnection = new SqlConnection(_dbConnectionString);
-            if(_dbConnection.State == ConnectionState.Closed)
+            dbConnection = new SqlConnection(dbConnectionString);
+            if(dbConnection.State == ConnectionState.Closed)
             {
-                _dbConnection.Open();
+                dbConnection.Open();
             }
             else
             {
-                _dbConnection.Close();
-                _dbConnection.Open();
+                dbConnection.Close();
+                dbConnection.Open();
             }
         }
 

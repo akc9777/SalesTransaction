@@ -6,6 +6,7 @@ using System.Security.Cryptography;
 using System.Data;
 using SalesTransaction.Application.DataAccess;
 using SalesTransaction.Application.Model;
+using SalesTransaction.Application.Service.Account;
 
 namespace SalesTransaction.Application.Service
 {
