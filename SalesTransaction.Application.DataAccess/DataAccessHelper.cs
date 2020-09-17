@@ -9,8 +9,13 @@ namespace SalesTransaction.Application.DataAccess
     public class DataAccessHelper
     {
         private SqlConnection dbConnection;
-        private string dbConnectionString = "Data Source=10.6.0.246; Initial Catalog=Abhishek;User id=intern;Password=intern001";
+        private string dbConnectionString;
         
+        
+        public DataAccessHelper(string dbConnectionString)
+        {
+            this.dbConnectionString = dbConnectionString;
+        }
         
         public SqlConnection GetConnection() 
         {

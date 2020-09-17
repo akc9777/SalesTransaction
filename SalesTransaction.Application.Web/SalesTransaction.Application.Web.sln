@@ -20,6 +20,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesTransaction.Applicatio
 		{627B9500-C639-469F-B083-C6FCE77227DE} = {627B9500-C639-469F-B083-C6FCE77227DE}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "debuggei", "..\debuggei\debuggei.csproj", "{D75F7F26-D577-4A36-AFAA-E05A4A00F9E8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3929F7D2-90FF-4864-8074-FB933EC38627} = {3929F7D2-90FF-4864-8074-FB933EC38627}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,7 +32,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C062089A-6EF2-4660-A97E-992F2F242642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C062089A-6EF2-4660-A97E-992F2F242642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C062089A-6EF2-4660-A97E-992F2F242642}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C062089A-6EF2-4660-A97E-992F2F242642}.Release|Any CPU.Build.0 = Release|Any CPU
 		{68011D2B-DC71-43AA-BAAA-5CEAED200F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -46,6 +50,9 @@ Global
 		{560F0E71-0091-49CF-8610-F884ED51DBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{560F0E71-0091-49CF-8610-F884ED51DBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{560F0E71-0091-49CF-8610-F884ED51DBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75F7F26-D577-4A36-AFAA-E05A4A00F9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75F7F26-D577-4A36-AFAA-E05A4A00F9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75F7F26-D577-4A36-AFAA-E05A4A00F9E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,15 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
+using SalesTransaction.Application.Service;
+using SalesTransaction.Application.Service.Account;
 
 namespace SalesTransaction.Application.WebApi
 {
@@ -25,6 +21,8 @@ namespace SalesTransaction.Application.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
+            services.AddTransient<IAccountService, AccountService>();
             services.AddControllers();
         }
 
@@ -37,6 +35,8 @@ namespace SalesTransaction.Application.WebApi
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors(a => a.SetIsOriginAllowed(x => _ = true).AllowAnyMethod().AllowAnyHeader().AllowCredentials());
 
             app.UseRouting();
 

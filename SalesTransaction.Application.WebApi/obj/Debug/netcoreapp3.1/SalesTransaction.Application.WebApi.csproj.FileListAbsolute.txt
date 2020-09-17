@@ -1,8 +1,3 @@
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.AssemblyInfoInputs.cache
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.AssemblyInfo.cs
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.csproj.CoreCompileInputs.cache
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.MvcApplicationPartsAssemblyInfo.cache
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.csprojAssemblyReference.cache
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -25,6 +20,11 @@ D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\n
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.pdb
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.csprojAssemblyReference.cache
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.AssemblyInfoInputs.cache
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.AssemblyInfo.cs
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.csproj.CoreCompileInputs.cache
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.RazorTargetAssemblyInfo.cache
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.csproj.CopyComplete
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\SalesTransaction.Application.WebApi.StaticWebAssets.Manifest.cache
@@ -32,3 +32,6 @@ D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\n
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.pdb
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.genruntimeconfig.cache
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll

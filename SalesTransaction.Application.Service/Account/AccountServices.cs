@@ -7,18 +7,21 @@ using System.Data;
 using SalesTransaction.Application.DataAccess;
 using SalesTransaction.Application.Model;
 using SalesTransaction.Application.Service.Account;
+using Microsoft.Extensions.Configuration;
 
 namespace SalesTransaction.Application.Service
 {
 
     public class AccountService : IAccountService
     {
+        private string connectionString;
         private DataAccessHelper dah;
 
-        public AccountService() 
+        public AccountService(IConfiguration config) 
         {
+            connectionString = config.GetConnectionString("DatabaseConnection");
             //make db connection
-            dah = new DataAccessHelper();
+            dah = new DataAccessHelper(connectionString);
         }
         
         public dynamic GetLogin(MvLogin login)
