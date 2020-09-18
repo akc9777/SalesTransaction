@@ -59,7 +59,7 @@ namespace SalesTransaction.Application.Service
             {
                 var dbCommand = dbConnection.CreateCommand(); 
                 dbCommand.CommandType = CommandType.StoredProcedure;
-                dbCommand.CommandText = "SpPersonSel";
+                dbCommand.CommandText = "SpCustomerSel4ui";
                 dbCommand.Parameters.Add("@Json", SqlDbType.NVarChar);
                 dbCommand.Parameters["@Json"].Value = json;
 

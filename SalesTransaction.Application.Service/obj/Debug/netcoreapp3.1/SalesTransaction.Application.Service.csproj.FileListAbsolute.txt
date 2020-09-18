@@ -12,3 +12,17 @@ D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Service\obj\Debug\
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.csproj.CopyComplete
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.pdb
+D:\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.deps.json
+D:\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.dll
+D:\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.pdb
+D:\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
+D:\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.dll
+D:\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
+D:\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
+D:\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.csprojAssemblyReference.cache
+D:\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.AssemblyInfoInputs.cache
+D:\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.AssemblyInfo.cs
+D:\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.csproj.CoreCompileInputs.cache
+D:\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.csproj.CopyComplete
+D:\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.dll
+D:\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.pdb

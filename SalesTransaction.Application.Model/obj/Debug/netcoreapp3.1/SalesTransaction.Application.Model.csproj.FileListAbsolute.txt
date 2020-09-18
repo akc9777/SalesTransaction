@@ -10,3 +10,15 @@ D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\ne
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.csproj.CopyComplete
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
+D:\salestransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.deps.json
+D:\salestransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.dll
+D:\salestransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
+D:\salestransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
+D:\salestransaction\SalesTransaction.Application.Model\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
+D:\salestransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.csprojAssemblyReference.cache
+D:\salestransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.AssemblyInfoInputs.cache
+D:\salestransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.AssemblyInfo.cs
+D:\salestransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.csproj.CoreCompileInputs.cache
+D:\salestransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.csproj.CopyComplete
+D:\salestransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.dll
+D:\salestransaction\SalesTransaction.Application.Model\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8E4bFtv5HzPK+LCHFl4Y7ZKZYp8DxpG1/ZNR1GnSOpALAWbbJJFzPIJ6wPdTC2dmF+DSwmXu52ynh8laeU0xsQ==",
+  "dgSpecHash": "jLjRNGptikh6p4zhzJbaL/H6B1xjeVZEp7s4YdS6b3zDAl7pdjIIf+FuHujmUF0GHYTv9Ew0nBRtV7++tGYfUw==",
   "success": true,
-  "projectFilePath": "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
+  "projectFilePath": "D:\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Work\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",

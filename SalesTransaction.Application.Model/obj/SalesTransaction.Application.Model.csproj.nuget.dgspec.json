@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {}
+    "D:\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {}
   },
   "projects": {
-    "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
+    "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
+        "projectUniqueName": "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
         "projectName": "SalesTransaction.Application.DataAccess",
-        "projectPath": "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
+        "projectPath": "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.DataAccess\\obj\\",
+        "outputPath": "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {
+    "D:\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
+        "projectUniqueName": "D:\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
         "projectName": "SalesTransaction.Application.Model",
-        "projectPath": "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
+        "projectPath": "D:\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
         "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.Model\\obj\\",
+        "outputPath": "D:\\salestransaction\\SalesTransaction.Application.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
-                "projectPath": "D:\\Aqore\\Week 3\\SalesTransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj"
+              "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
+                "projectPath": "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj"
               }
             }
           }
