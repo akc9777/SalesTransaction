@@ -7,7 +7,13 @@ D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\n
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.runtimeconfig.dev.json
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.pdb
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
@@ -17,9 +23,9 @@ D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\n
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.dll
+D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.pdb
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.csprojAssemblyReference.cache
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.AssemblyInfoInputs.cache
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.AssemblyInfo.cs
@@ -32,6 +38,3 @@ D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\n
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.dll
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.pdb
 D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\obj\Debug\netcoreapp3.1\SalesTransaction.Application.WebApi.genruntimeconfig.cache
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Aqore\Week 3\SalesTransaction\SalesTransaction.Application.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll

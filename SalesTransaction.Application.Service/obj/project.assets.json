@@ -177,6 +177,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.8",
           "Newtonsoft.Json": "12.0.3",
           "System.Data.SqlClient": "4.8.2"
         },
@@ -609,6 +610,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.Extensions.Configuration >= 3.1.8",
+      "Newtonsoft.Json >= 12.0.3",
       "SalesTransaction.Application.DataAccess >= 1.0.0",
       "SalesTransaction.Application.Model >= 1.0.0"
     ]
@@ -660,6 +662,10 @@
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[3.1.8, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
           }
         },
         "imports": [

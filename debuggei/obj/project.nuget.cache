@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bZ/0GmR5Ifbi2YWnuoFeJJ1uTJorIkqPOwOhZvxB2idBxbLdtOONSqI2adLbm1egGl01hAQFswi0ZN2r/c0sjA==",
+  "dgSpecHash": "wpMuSguE9oG5aIjAjSP2GxkOKbfUR/mHPGHIpIZxdNNYRw3oNMQEkRt2dGyHHYWy2FM5LqfhYOaGuJWHR4ZlyA==",
   "success": true,
   "projectFilePath": "D:\\Aqore\\Week 3\\SalesTransaction\\debuggei\\debuggei.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
