@@ -582,11 +582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
+      "projectUniqueName": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
       "projectName": "SalesTransaction.Application.DataAccess",
-      "projectPath": "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
+      "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-      "outputPath": "D:\\salestransaction\\SalesTransaction.Application.DataAccess\\obj\\",
+      "outputPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",

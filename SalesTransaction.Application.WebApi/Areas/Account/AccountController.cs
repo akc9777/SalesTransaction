@@ -46,5 +46,19 @@ namespace SalesTransaction.Application.WebApi.Areas.Account
                 throw e;
             }
         }
+
+        [HttpGet]
+        public IActionResult GetAllCustomer()
+        {
+            try
+            {
+                dynamic jsonString = accountService.GetAllUserDetail();
+                return Ok(jsonString);
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
     }
 }

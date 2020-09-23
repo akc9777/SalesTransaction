@@ -83,5 +83,36 @@ namespace SalesTransaction.Application.Service
                 }
             }  
         }
+
+        public dynamic GetAllUserDetail()
+        {
+            using(var dbConnection  = dah.GetConnection())
+            {
+                var dbCommand = dbConnection.CreateCommand();
+                dbCommand.CommandType = CommandType.StoredProcedure;
+                dbCommand.CommandText = "SpCustomerSelAll";
+
+                using(SqlDataReader reader = dbCommand.ExecuteReader())
+                {
+                    try
+                    {
+                        if(reader.HasRows)
+                        {
+                            return dah.GetJson(reader);
+                        }
+                        else
+                        {
+                            return null;
+                        }
+
+                    }
+                    catch(Exception e)
+                    {
+                        throw e;
+                    }
+                }
+
+            }
+        }
     }
 }

@@ -2,6 +2,9 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { UserDetailComponent } from './user-detail.component';
 import { RouterModule, Routes } from '@angular/router';
+import { HttpClientModule } from '@angular/common/http';
+import { MatButtonModule } from '@angular/material/button';
+import { MatTableDataSource, MatTableModule } from '@angular/material/table';
 
 const routes: Routes = [
   {
@@ -11,10 +14,14 @@ const routes: Routes = [
 ];
 
 @NgModule({
+  declarations: [UserDetailComponent],
   imports: [
     CommonModule,
-    RouterModule.forChild(routes)
+    RouterModule.forChild(routes),
+    HttpClientModule,
+    MatButtonModule,
+    MatTableModule
   ],
-  declarations: [UserDetailComponent]
+  exports: [UserDetailComponent]
 })
 export class UserDetailModule { }
