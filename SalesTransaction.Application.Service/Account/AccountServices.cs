@@ -32,7 +32,7 @@ namespace SalesTransaction.Application.Service
                 dbCommand.CommandType = CommandType.StoredProcedure;
                 dbCommand.CommandText = "SpCustomerAuth";
                 dbCommand.Parameters.Add("@Json", SqlDbType.NVarChar);
-                dbCommand.Parameters["@Json"].Value = "{\"customerId\":\"" + login.CustomerId + "\", \"password\":\"" + login.Password + "\"}";
+                dbCommand.Parameters["@Json"].Value = "{\"username\":\"" + login.Username + "\", \"password\":\"" + login.Password + "\"}";
 
                 using SqlDataReader reader = dbCommand.ExecuteReader();
                 try
