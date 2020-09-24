@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using SalesTransaction.Application.Model.Product;
 
 namespace SalesTransaction.Application.WebApi.Areas.Product
 {
@@ -23,6 +24,48 @@ namespace SalesTransaction.Application.WebApi.Areas.Product
             try 
             {
                 dynamic jsonString = _productService.GetAllProduct();
+                return Ok(jsonString);
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
+
+        [HttpPost]
+        public IActionResult AddProduct([FromBody] MvProduct product)
+        {
+            try
+            {
+                dynamic jsonString = _productService.AddProduct(product);
+                return Ok(jsonString);
+            }
+            catch(Exception e)
+            {
+                throw e;
+            }
+        }
+    
+        [HttpGet]
+        public IActionResult GetProductDetail(string json)
+        {
+            try
+            {
+                dynamic jsonString = _productService.GetProductDetail(json);
+                return Ok(jsonString);
+            }
+            catch(Exception e)
+            {
+                throw e;
+            }
+        }
+
+        [HttpPost]
+        public IActionResult EditProduct([FromBody] MvProduct product)
+        {
+            try
+            {
+                dynamic jsonString = _productService.EditProduct(product);
                 return Ok(jsonString);
             }
             catch (Exception e)
