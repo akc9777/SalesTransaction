@@ -7,5 +7,7 @@ namespace SalesTransaction.Application.Service.Account
         dynamic GetLogin(MvLogin login);
         dynamic GetUserDetail(string json);
         dynamic GetAllUserDetail();
+        dynamic AddUser(MvLogin login);
+        dynamic EditUser(MvLogin login);
     }
 }

@@ -24,3 +24,4 @@ D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Deb
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csproj.CoreCompileInputs.cache
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
+D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csprojAssemblyReference.cache

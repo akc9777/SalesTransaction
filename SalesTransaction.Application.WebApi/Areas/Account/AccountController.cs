@@ -60,5 +60,33 @@ namespace SalesTransaction.Application.WebApi.Areas.Account
                 throw e;
             }
         }
+
+        [HttpPost]
+        public IActionResult AddUser([FromBody] MvLogin login)
+        {
+            try
+            {
+                dynamic jsonString = accountService.AddUser(login);
+                return Ok(jsonString);
+            }
+            catch(Exception e)
+            {
+                throw e;
+            }
+        }
+
+        [HttpPut]
+        public IActionResult EditUser([FromBody] MvLogin login)
+        {
+            try
+            {
+                dynamic jsonString = accountService.EditUser(login);
+                return Ok(jsonString);
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
     }
 }
