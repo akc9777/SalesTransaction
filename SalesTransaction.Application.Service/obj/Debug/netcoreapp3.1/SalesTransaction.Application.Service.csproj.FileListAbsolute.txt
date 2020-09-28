@@ -40,3 +40,17 @@ D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.Service\obj\Debug\
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.csproj.CopyComplete
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.dll
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.pdb
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.deps.json
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.dll
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Service.pdb
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.dll
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\bin\Debug\netcoreapp3.1\SalesTransaction.Application.Model.pdb
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.csprojAssemblyReference.cache
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.AssemblyInfoInputs.cache
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.AssemblyInfo.cs
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.csproj.CopyComplete
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.dll
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.Service\obj\Debug\netcoreapp3.1\SalesTransaction.Application.Service.pdb

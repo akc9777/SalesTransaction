@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.WebApi\\SalesTransaction.Application.WebApi.csproj": {}
+    "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.WebApi\\SalesTransaction.Application.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
+    "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
         "projectName": "SalesTransaction.Application.DataAccess",
-        "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\kabhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kabhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,17 +70,17 @@
         }
       }
     },
-    "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {
+    "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
+        "projectUniqueName": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
         "projectName": "SalesTransaction.Application.Model",
-        "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
-        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\obj\\",
+        "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
+        "packagesPath": "C:\\Users\\kabhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kabhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,8 +93,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
-                "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj"
+              "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj"
               }
             }
           }
@@ -126,17 +126,17 @@
         }
       }
     },
-    "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj": {
+    "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj",
+        "projectUniqueName": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj",
         "projectName": "SalesTransaction.Application.Service",
-        "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj",
-        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Service\\obj\\",
+        "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj",
+        "packagesPath": "C:\\Users\\kabhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kabhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,11 +149,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
-                "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj"
+              "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj"
               },
-              "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {
-                "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj"
+              "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {
+                "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj"
               }
             }
           }
@@ -195,17 +195,17 @@
         }
       }
     },
-    "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.WebApi\\SalesTransaction.Application.WebApi.csproj": {
+    "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.WebApi\\SalesTransaction.Application.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.WebApi\\SalesTransaction.Application.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.WebApi\\SalesTransaction.Application.WebApi.csproj",
         "projectName": "SalesTransaction.Application.WebApi",
-        "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.WebApi\\SalesTransaction.Application.WebApi.csproj",
-        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.WebApi\\SalesTransaction.Application.WebApi.csproj",
+        "packagesPath": "C:\\Users\\kabhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kabhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -218,11 +218,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {
-                "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj"
+              "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj": {
+                "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj"
               },
-              "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj": {
-                "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj"
+              "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj": {
+                "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Service\\SalesTransaction.Application.Service.csproj"
               }
             }
           }

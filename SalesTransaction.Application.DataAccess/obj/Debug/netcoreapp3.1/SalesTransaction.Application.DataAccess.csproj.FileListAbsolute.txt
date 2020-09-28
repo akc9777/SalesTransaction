@@ -25,3 +25,12 @@ D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Deb
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
 D:\Aqore\Week 4\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csprojAssemblyReference.cache
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.deps.json
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\bin\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csprojAssemblyReference.cache
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.AssemblyInfo.cs
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.dll
+C:\Users\kabhi\aqore\salestransaction\SalesTransaction.Application.DataAccess\obj\Debug\netcoreapp3.1\SalesTransaction.Application.DataAccess.pdb

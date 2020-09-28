@@ -11,11 +11,18 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent, pathMatch: 'full' },
-  { path : 'login',
-  loadChildren: () => import('./login/login.module').then(m => m.LoginModule)
+  {
+    path: 'login',
+    loadChildren: () => import('./login/login.module').then(m => m.LoginModule)
   },
-  { path : 'user-detail',
-  loadChildren: () => import('./user-detail/user-detail.module').then(m => m.UserDetailModule)}
+  {
+    path: 'user-detail',
+    loadChildren: () => import('./user-detail/user-detail.module').then(m => m.UserDetailModule)
+  },
+  {
+    path: 'product',
+    loadChildren: () => import('./product/product.module').then(m => m.ProductModule)
+  }
 ];
 
 @NgModule({

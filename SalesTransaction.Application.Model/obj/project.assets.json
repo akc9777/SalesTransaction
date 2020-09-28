@@ -595,19 +595,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Work\\.nuget\\packages\\": {}
+    "C:\\Users\\kabhi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
+      "projectUniqueName": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
       "projectName": "SalesTransaction.Application.Model",
-      "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
-      "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-      "outputPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.Model\\obj\\",
+      "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\SalesTransaction.Application.Model.csproj",
+      "packagesPath": "C:\\Users\\kabhi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kabhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -620,8 +620,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
-              "projectPath": "D:\\Aqore\\Week 4\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj"
+            "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\kabhi\\aqore\\salestransaction\\SalesTransaction.Application.DataAccess\\SalesTransaction.Application.DataAccess.csproj"
             }
           }
         }
