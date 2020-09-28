@@ -13,6 +13,9 @@ export class WebApiService {
   post(url: string, body: any): Observable<any> {
     return this.http.post(this.apiUrl + url, body, { headers: this.getHeaderOptions()});
   }
+  put(url: string, body: any): Observable<any> {
+    return this.http.put(this.apiUrl + url, body, { headers: this.getHeaderOptions()});
+  }
 
   get(url: string, params?: any): Observable<any> {
     return this.http.get(this.apiUrl + url, { headers: this.getHeaderOptions(), params: params});

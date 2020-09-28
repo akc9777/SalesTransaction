@@ -1,0 +1,19 @@
+<div mat-dialog-title>{{action| titlecase}} Sales</div>
+<div mat-dialog-content>
+  <form name="salesForm" [formGroup]="salesForm" class="login-form" novalidate>
+    <mat-form-field class="example-full-width">
+      <mat-label>Product</mat-label>
+      <mat-select formControlName="productId" formControlName="productId" [(ngModel)]="selectedSales.productId">
+        <mat-option *ngFor="let product of products"  [value]="product.value" >{{product.selectValue}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+    <mat-form-field class="example-full-width">
+      <input matInput type="number" placeholder="Quantity" formControlName="quantity" [(ngModel)]="selectedSales.quantity">
+    </mat-form-field>
+
+  </form>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="cancelClick()" color="warn">Cancel</button>
+  <button mat-raised-button [disabled]="!salesForm.valid" (click)="submitForm()" color="primary">Save</button>
+</div>
