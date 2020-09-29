@@ -9,6 +9,14 @@ export class UserDetailService {
 
   constructor(private api: WebApiService) { }
 
+  addUser(json): Observable<any> {
+    return this.api.post('account/adduser', json);
+  }
+
+  editUser(json): Observable<any> {
+    return this.api.put('account/edituser', json);
+  }
+
   getLogin(json): Observable<any> {
     return this.api.post('account/login', json)
   }
@@ -18,6 +26,6 @@ export class UserDetailService {
   }
 
   getAllUserDetail() {
-    return this.api.get('account/getallcustomer');
+    return this.api.get('account/getalluser');
   }
 }

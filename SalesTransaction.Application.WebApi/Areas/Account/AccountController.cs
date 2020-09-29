@@ -48,7 +48,7 @@ namespace SalesTransaction.Application.WebApi.Areas.Account
         }
 
         [HttpGet]
-        public IActionResult GetAllCustomer()
+        public IActionResult GetAllUser()
         {
             try
             {

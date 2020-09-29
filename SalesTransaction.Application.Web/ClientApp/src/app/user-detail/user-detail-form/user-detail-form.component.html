@@ -1,0 +1,44 @@
+<h1>{{action | titlecase}}User</h1>
+<div mat-dialog-content>
+    <form name="userForm" [formGroup]="userForm" class="login-form" novalidate>
+
+        <mat-form-field class="example-full-width">
+            <input matInput type="text" placeholder="First Name" formControlName="firstName"
+                [(ngModel)]="selectedUser.firstName">
+        </mat-form-field>
+
+        <mat-form-field class="example-full-width">
+            <input matInput type="text" placeholder="Middle Name" formControlName="middleName"
+                [(ngModel)]="selectedUser.middleName">
+        </mat-form-field>
+
+        <mat-form-field class="example-full-width">
+            <input matInput type="text" placeholder="Last Name" formControlName="lastName"
+                [(ngModel)]="selectedUser.lastName">
+        </mat-form-field>
+
+        <mat-form-field class=" example-full-width">
+            <input matInput type="text" placeholder="Username" formControlName="username"
+                [(ngModel)]="selectedUser.username">
+        </mat-form-field>
+
+        <mat-form-field class=" example-full-width">
+            <input matInput type="password" placeholder="Password" formControlName="password"
+                [(ngModel)]="selectedUser.password">
+        </mat-form-field>
+
+        <mat-form-field class=" example-full-width">
+            <input matInput type="text" placeholder="Email" formControlName="email"
+            [(ngModel)]="selectedUser.email">
+        </mat-form-field>
+
+        <mat-form-field class=" example-full-width">
+            <input matInput type="text" placeholder="Mobile" formControlName="mobile"
+            [(ngModel)]="selectedUser.mobile">
+        </mat-form-field>
+    </form>
+</div>
+<div mat-dialog-actions>
+    <button mat-button (click)="cancelClick()" color="warn">Cancel</button>
+    <button mat-raised-button [disabled]="!userForm.valid" (click)="submitForm()" color="primary">Save</button>
+</div>

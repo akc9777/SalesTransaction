@@ -59,7 +59,7 @@ namespace SalesTransaction.Application.Service
             {
                 var dbCommand = dbConnection.CreateCommand(); 
                 dbCommand.CommandType = CommandType.StoredProcedure;
-                dbCommand.CommandText = "SpCustomerSel4ui";
+                dbCommand.CommandText = "SpCustomerSel";
                 dbCommand.Parameters.Add("@Json", SqlDbType.NVarChar);
                 dbCommand.Parameters["@Json"].Value = json;
 
@@ -90,7 +90,7 @@ namespace SalesTransaction.Application.Service
             {
                 var dbCommand = dbConnection.CreateCommand();
                 dbCommand.CommandType = CommandType.StoredProcedure;
-                dbCommand.CommandText = "SpCustomerSelAll";
+                dbCommand.CommandText = "SpCustomerSel";
 
                 using(SqlDataReader reader = dbCommand.ExecuteReader())
                 {
@@ -129,7 +129,7 @@ namespace SalesTransaction.Application.Service
                                                        "\"password\":\"" + login.Password + "\"," +
                                                        "\"email\":\"" + login.Email + "\"," +
                                                        "\"mobile\":\"" + login.Mobile + "\"," +
-                                                       "\"insertPersonId\": " + login.InsertPersonId + "}";
+                                                       "\"insertPersonId\": 1337}";
 
                 using( SqlDataReader reader = dbCommand.ExecuteReader())
                 {
@@ -167,7 +167,7 @@ namespace SalesTransaction.Application.Service
                                                        "\"password\":\"" + login.Password + "\"," +
                                                        "\"email\":\"" + login.Email + "\"," +
                                                        "\"mobile\":\"" + login.Mobile + "\"," +
-                                                       "\"insertPersonId\": " + login.InsertPersonId + "}";
+                                                       "\"insertPersonId\": 1337}";
 
                 using (SqlDataReader reader = dbCommand.ExecuteReader())
                 {
