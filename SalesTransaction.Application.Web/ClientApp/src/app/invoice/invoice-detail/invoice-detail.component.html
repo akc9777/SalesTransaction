@@ -1,0 +1,43 @@
+<h3 mat-dialog-title>Invoice</h3>
+<div mat-dialog-content>
+
+  <ul>
+    <li><b>Customer Id:</b> {{invoice.customerId}}</li>
+    <li><b>Customer Name:</b> {{invoice.firstName}} {{invoice.lastName}}</li>
+    <li><b>Billing Date:</b> {{invoice.date | date:'shortDate'}}</li>
+    <li><b>Total Bill Amount:</b> ${{invoice.amount}}</li>
+
+
+  </ul>
+  <table class="bill-table" border="1">
+    <thead>
+      <tr>
+        <th>SalesId</th>
+        <th>Product</th>
+        <th>Rate</th>
+        <th>Quantity</th>
+        <th>Amount</th>
+      </tr>
+
+    </thead>
+    <tbody>
+      <tr *ngFor="let sale of invoiceSales">
+        <td class='tbl-center'>{{sale.salesId}}</td>
+        <td>{{sale.name}}</td>
+        <td class='tbl-center'>{{sale.quantity}}</td>
+        <td class='tbl-center'>${{sale.rate}}</td>
+        <td class='tbl-center'>${{sale.rate * sale.quantity}}</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td class='tbl-right' colspan="4"><b>Grand Total</b></td>
+        <td class='tbl-center'>${{invoice.amount}}</td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="cancel()" color="warn">Cancel</button>
+  <button (click)="printInvoice()" mat-raised-button color="primary">Print</button>
+</div>

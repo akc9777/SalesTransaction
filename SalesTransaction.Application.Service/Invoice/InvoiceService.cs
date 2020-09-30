@@ -88,7 +88,7 @@ namespace SalesTransaction.Application.Service.Invoice
             {
                 var dbCommand = dbConnection.CreateCommand();
                 dbCommand.CommandType = CommandType.StoredProcedure;
-                dbCommand.CommandText = "SpInvoiceSel";
+                dbCommand.CommandText = "SpInvoiceSalesListSel";
                 dbCommand.Parameters.Add("@Json", SqlDbType.NVarChar);
                 dbCommand.Parameters["@Json"].Value = json;
 

@@ -15,6 +15,7 @@ import { MatInputModule } from '@angular/material/input';
 import { CdkTableModule } from '@angular/cdk/table';
 import { MatSelectModule } from '@angular/material/select';
 import { MatCheckboxModule } from '@angular/material/checkbox';
+import { CreateInvoiceComponent } from './create-invoice/create-invoice.component';
 
 const routes: Routes = [{ path: '', component: SalesComponent }];
 
@@ -26,16 +27,18 @@ const routes: Routes = [{ path: '', component: SalesComponent }];
     MatButtonModule,
     MatTableModule,
     MatDialogModule,
+    MatSelectModule,
     MatSnackBarModule,
     MatCheckboxModule,
     MatFormFieldModule,
     MatSelectModule,
     FormsModule,
+    MatFormFieldModule,
     ReactiveFormsModule,
     MatInputModule,
     CdkTableModule
   ],
-  declarations: [SalesComponent, SalesFormComponent],
+  declarations: [SalesComponent, SalesFormComponent, CreateInvoiceComponent],
   providers: [SalesService, SnackbarService],
   exports: [SalesComponent]
 })

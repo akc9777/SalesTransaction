@@ -3,6 +3,8 @@ import { Component, OnInit } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { MatTableDataSource } from '@angular/material/table';
 import { SnackbarService } from 'src/core/services/snackbar.service';
+import { InvoiceService } from '../invoice/invoice.service';
+import { CreateInvoiceComponent } from './create-invoice/create-invoice.component';
 import { SalesFormComponent } from './sales-form/sales-form.component';
 import { MvSales } from './sales.model';
 import { SalesService } from './sales.service';
@@ -22,6 +24,7 @@ export class SalesComponent implements OnInit {
   selectionCheckbox = new SelectionModel<MvSales>(true, []);
 
   constructor(private salesService: SalesService,
+    private invoiceService: InvoiceService,
     private snackBar: SnackbarService,
     public dialog: MatDialog) { }
 
@@ -84,6 +87,26 @@ export class SalesComponent implements OnInit {
             this.getAllSales();
           })
         }
+      }
+    });
+  }
+
+  createInvoice() {
+    if(!this.selectionCheckbox.hasValue()) {
+      this.snackBar.openSnackBar('No sales selected', 'warning');
+      return;
+    }
+
+    const dialogRef = this.dialog.open(CreateInvoiceComponent,{
+      width: '300px',
+      data: {data: this.selectionCheckbox}
+    });
+
+    dialogRef.afterClosed().subscribe(result => {
+      if (result) {
+        this.invoiceService.addInvoice(result).subscribe(result => {
+          this.snackBar.openSnackBar('Invoice Created', 'success')
+        });
       }
     });
   }
