@@ -10,7 +10,7 @@ import { MvSales } from '../sales.model';
   templateUrl: './sales-form.component.html',
   styleUrls: ['./sales-form.component.scss']
 })
-export class SalesFormComponent implements OnInit, AfterViewInit{
+export class SalesFormComponent implements OnInit, AfterViewInit {
 
   products = [];
   action: string;

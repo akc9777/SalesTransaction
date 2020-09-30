@@ -1,0 +1,16 @@
+<h3 mat-dialog-title>Create Invoice</h3>
+<div mat-dialog-content>
+  <form name="invoiceForm" [formGroup]="invoiceForm" class="login-form" novalidate>
+    <mat-form-field class="example-full-width">
+      <mat-label>Customer</mat-label>
+      <mat-select formControlName="customerId" [(ngModel)]="customerId">
+        <mat-option *ngFor="let customer of customers" [value]="customer.value">{{customer.selectValue}}
+          UID:{{customer.value}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+  </form>
+</div>
+<div mat-dialog-actions>
+  <button mat-button color="warn" (click)="close()">Cancel</button>
+  <button mat-raised-button color="primary" (click)="submitForm()" >Save</button>
+</div>
